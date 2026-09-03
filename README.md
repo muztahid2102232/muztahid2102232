@@ -1,6 +1,12 @@
 ## Hi there 👋
 [GitHub](https://github.com)
 
+
+| Column 1 (Left)     | Column 2 (Center) | Column 3 (Right) |
+| :---                | :---:             | ---:             |
+| Data A              | Data B            | Data C           |
+| 123                 | 456               | 789              |
+
 # Hi 👋, I'm <YOUR NAME>  
 ### 🔭 I build things with JavaScript, React, and Node.js
 

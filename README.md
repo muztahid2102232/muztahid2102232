@@ -116,9 +116,9 @@ I'm currently focused on strengthening my frontend development skills through bu
 
 ---
 
-<p align="center">
-  Thanks for visiting my profile! 💙
-</p>
+<h3 align="center">
+💙 Thanks for visiting my profile! 💙
+</h3>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=100&section=footer" width="100%"/>
